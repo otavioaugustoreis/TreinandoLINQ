@@ -1,0 +1,14 @@
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\bin\Debug\net8.0\AprendizadosLINQ.exe
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\bin\Debug\net8.0\AprendizadosLINQ.deps.json
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\bin\Debug\net8.0\AprendizadosLINQ.runtimeconfig.json
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\bin\Debug\net8.0\AprendizadosLINQ.dll
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\bin\Debug\net8.0\AprendizadosLINQ.pdb
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\obj\Debug\net8.0\AprendizadosLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\obj\Debug\net8.0\AprendizadosLINQ.AssemblyInfoInputs.cache
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\obj\Debug\net8.0\AprendizadosLINQ.AssemblyInfo.cs
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\obj\Debug\net8.0\AprendizadosLINQ.csproj.CoreCompileInputs.cache
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\obj\Debug\net8.0\AprendizadosLINQ.dll
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\obj\Debug\net8.0\refint\AprendizadosLINQ.dll
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\obj\Debug\net8.0\AprendizadosLINQ.pdb
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\obj\Debug\net8.0\AprendizadosLINQ.genruntimeconfig.cache
+C:\Users\oaugu\source\repos\AprendizadosLINQ\AprendizadosLINQ\obj\Debug\net8.0\ref\AprendizadosLINQ.dll
